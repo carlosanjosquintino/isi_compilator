@@ -1,0 +1,7 @@
+programa
+
+    declare texto a.
+
+    a := 12.5.
+
+fimprog.

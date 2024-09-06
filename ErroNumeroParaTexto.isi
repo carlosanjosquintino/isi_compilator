@@ -1,0 +1,7 @@
+programa
+
+    declare numero a.
+
+    a := "texto".
+
+fimprog.

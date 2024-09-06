@@ -1,0 +1,14 @@
+programa
+
+    declare numero f, k, y.
+    declare texto ts, t1, t5.
+
+    se (f > 2){
+        escreva(f).
+        escreva("maior").
+    }
+    senao{
+        escreva("menor").
+    }
+
+fimprog.
