@@ -1,23 +1,18 @@
 programa
 
-    declare numero f, k, y.
-    declare texto ts, t1, t5.
+    declare numero a,k,x.
+    declare texto t.
 
-    leia(f).
-    leia(t1).
+    escreva("Digite um número").
+    leia(a).
+    escreva("Digite um texto").
+    leia(t).
 
-    k := 1 + 2 - 5 / 6 * 8.
+    k := a+3.
 
-    f := 123.
 
-    ts := "teste".
-
-    se (f > 2){
-        escreva(f).
-        escreva("maior").
-    }
-    senao{
-        escreva("menor").
-    }
+    escreva(k).
+    escreva("Escrita do texto passado").
+    escreva(t).
 
 fimprog.

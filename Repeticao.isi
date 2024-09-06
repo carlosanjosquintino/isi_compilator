@@ -1,8 +1,11 @@
 programa
-    declare numero a, b.
+    declare numero a, b,c.
+
+    escreva("Digite o numero de repeticao do enquanto ").
 
     a := 0.
     leia(b).
+
 
     enquanto (a < b)
     {
@@ -11,10 +14,11 @@ programa
     }
 
     a := 0.
-
+    escreva("Digite o numero de repeticao do faca enquanto ").
+    leia(c).
     faca {
         escreva (a).
         a := a+1.
-    } enquanto (a < d).
+    } enquanto (a < c).
 
 fimprog.
